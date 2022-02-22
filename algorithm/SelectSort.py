@@ -18,5 +18,7 @@ def selectionSort(arr):
     return newArr
 
 
+
+
 if __name__ == '__main__':
     print(selectionSort([5, 3, 6, 2, 10]))
